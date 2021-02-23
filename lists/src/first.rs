@@ -50,7 +50,7 @@ struct Node {
     elem: i32,
     next: Link
 }
-
+/*
 mod test {
     use super::List;
 
@@ -86,3 +86,4 @@ mod test {
         assert_eq!(list.pop(), None);
     }
 }
+*/
